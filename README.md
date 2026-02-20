@@ -1,7 +1,7 @@
 # Retail-Consumer-Behavior-Analytics
 Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
 
-#Business Problem Statement 
+# Business Problem Statement 
 A leading retail company wants to better understand its customers’ shopping behavior in order 
 to improve sales, customer satisfaction, and long-term loyalty. The management team has 
 noticed changes in purchasing patterns across demographics, product categories, and sales 
@@ -12,7 +12,7 @@ You are tasked with analyzing the company’s consumer behavior dataset to answe
 following overarching business question: 
 “How can the company leverage consumer shopping data to identify trends, improve 
 customer engagement, and optimize marketing and product strategies?” 
-#Deliverables 
+# Deliverables 
 1. Data Preparation & Modeling (Python): Clean and transform the raw dataset for 
 analysis. 
 2. Data Analysis (SQL): Organize the data into a structured format, simulate business 
