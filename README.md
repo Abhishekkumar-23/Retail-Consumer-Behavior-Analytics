@@ -39,4 +39,4 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ![Dashboard](processstep.png)
 # Dashborads
 ![Dashboard](dashboardimage.png)
-![Dashboard](powerbidashboardimage.png)
+![Dashboard](powerbidashboradimage.png)
